@@ -1,0 +1,29 @@
+.parrafo1{
+	width: 100px;
+	border: 3px solid red;
+	padding-top: 20px;
+	background-color: lightgrey;
+	position: relative;
+    left: 30px;
+    top: 250px;
+}
+
+.parrafo2{
+	width: 100px;
+	border: 3px solid green;
+	padding-top: 20px;
+	background-color: lightgrey;
+	position: absolute;
+    top: 210px;
+    left: 80px;
+}
+
+.parrafo3{
+    width: 100px;
+    border: 3px solid blue;
+    padding-top: 20px;
+	background-color: lightgrey;
+	position: absolute;
+    top: 160px;
+    left: 120px;
+}
